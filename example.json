@@ -1,0 +1,6 @@
+{
+    "access_key":"your aliyun access key",
+    "access_secret":"your aliyun access secret",
+    "domain":"your aliyun domain",
+    "sub":["sub", "domains", "to", "update"]
+}
